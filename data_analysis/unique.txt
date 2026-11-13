@@ -1,0 +1,7 @@
+Omer Reingold, Professor, Theory
+Moses Charikar, Professor, Theory
+James Landay, Professor, Human-Computer Interaction (HCI)
+John Mitchell, Professor, Computer Security
+Mehran Sahami, Professor, Computational Education
+Doug James, Professor, Computer Graphics
+John Hennessy, Professor, Computer Systems
